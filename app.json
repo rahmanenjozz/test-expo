@@ -23,6 +23,13 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "permissions": [
+        "CAMERA",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
+      "package": "com.yourcompany.yourappname"
     }
   }
 }
